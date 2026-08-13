@@ -1,6 +1,6 @@
-# Pratik Teklif — Kurulum Paketleri
+# Defterzade — Kurulum Paketleri
 
-Bu depo yalnızca **Pratik Teklif** masaüstü uygulamasının kurulum paketlerini barındırır.
+Bu depo yalnızca **Defterzade** masaüstü uygulamasının imzalı kurulum paketlerini barındırır.
 Kaynak kod bu depoda değildir.
 
 Buradaki paketler imzalıdır: uygulama, güncellemeyi kurmadan önce paketin imzasını kendi
